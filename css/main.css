@@ -1,0 +1,81 @@
+
+header.masthead {
+	background-image: none;
+	background-color: white;
+	height: 0vh;
+	padding-top: 20px;
+	min-height: 32rem;
+
+}
+
+.social-icon {
+	width:20px;
+	height: 20px;
+	margin-right: 8px;
+}
+
+.bg-primary {
+	background-color: white !important;
+}
+
+.page-section {
+	padding: 2rem 8rem 2rem 8rem;
+}
+
+#headshot {
+	width: 200px;
+	border-radius: 100px;
+	margin-bottom: 30px;
+}
+
+#portfolio-img {
+	width: 300px;
+	margin-bottom: 40px;
+}
+
+#logo {
+	width: 100px;
+	margin-top: 20px;
+}
+
+.btn-primary {
+	background-color:#F8FAB1;
+	color: black;
+}
+.btn-primary:hover {
+	background-color:#F8FAB1;
+	color: black;
+}
+/*.btn-secondary:active {
+	border: red 2px solid;
+	background-color:#F8FAB1;
+	color: black;
+}*/
+.btn-secondary{
+	background-color: white;
+	color: black;
+}
+
+.btn-secondary:hover {
+	background-color:#F8FAB1;
+	color: black;
+}
+
+h1, h2, h3, p {
+	font-family: 'Poppins', serif;
+}
+
+h2 {
+	font-size:30px;
+	padding-bottom: 15px;
+	font-weight: medium;
+}
+
+a {
+	color: red;
+}
+
+h3 {
+	font-size: 20px;
+	font-weight: medium;
+}
