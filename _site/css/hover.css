@@ -23,7 +23,7 @@
 }
 
 .container-hover:hover .overlay-hover {
-  opacity: 1;
+  opacity: 2;
 }
 
 .text-hover {
