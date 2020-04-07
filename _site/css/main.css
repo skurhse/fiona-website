@@ -110,3 +110,47 @@ h3 {
 	font-size: 20px;
 	font-weight: medium;
 }
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+	header.masthead	{
+		padding-top: 0px;
+		min-height: 17rem;
+	}
+
+	.page-section {
+		padding:0rem 3rem 2rem 3rem;
+	}
+
+	.dropbtn {
+		background:white;
+	}
+  
+}
+
+@media (min-width: 481px) and (max-width: 760px) {
+  
+  	header.masthead	{
+		padding-top: 0px;
+		min-height: 17rem;
+	}
+
+	.page-section {
+		padding:0rem 3rem 2rem 3rem;
+	}
+
+	.dropbtn {
+		background:white;
+	}
+  
+}
+
+/*@media (min-width: 768px) and (max-width: 1024px) {
+  
+  header.masthead	{
+		padding-top: 0px;
+
+	}
+
+  
+}*/
