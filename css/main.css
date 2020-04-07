@@ -79,7 +79,11 @@ header.masthead {
 	color: black;
 }
 .btn-primary:hover {
-	background-color:#F8FAB1;
+	background-color:#F8FAB1!important;
+	color: black;
+}
+.btn-primary:active {
+	background-color:#F8FAB1!important;
 	color: black;
 }
 /*.btn-secondary:active {
