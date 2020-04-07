@@ -87,6 +87,11 @@ header.masthead {
 	color: black;
 }
 
+.btn-secondary:active{
+	background-color:#F8FAB1;
+	color: black;
+}
+
 .btn-secondary:hover {
 	background-color:#F8FAB1;
 	color: black;
