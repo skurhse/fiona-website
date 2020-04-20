@@ -19,15 +19,15 @@
   width: 100%;
   opacity: 0;
   transition: .5s ease;
-  background-color: red;
+  background-color: #dbe2ef;
 }
 
 .container-hover:hover .overlay-hover {
-  opacity: 2;
+  opacity: 1;
 }
 
 .text-hover {
-  color: white;
+  color: black;
   font-size: 18px;
   position: absolute;
   top: 50%;
