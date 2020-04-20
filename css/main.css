@@ -26,7 +26,7 @@
   display: block;
 }
 
-.dropdown-content a:hover {background-color: red; color:white;}
+.dropdown-content a:hover {background-color: #dbe2ef; color:black;}
 
 .dropdown:hover .dropdown-content {display: block;}
 
@@ -75,16 +75,16 @@ header.masthead {
 }
 
 .btn-primary {
-	background-color:#F8FAB1;
-	color: black;
+	background-color:#3f72af;
+	color: white;
 }
 .btn-primary:hover {
-	background-color:#F8FAB1!important;
-	color: black;
+	background-color:#3f72af!important;
+	color: white;
 }
 .btn-primary:active {
-	background-color:#F8FAB1!important;
-	color: black;
+	background-color:#3f72af!important;
+	color: white;
 }
 /*.btn-secondary:active {
 	border: red 2px solid;
@@ -97,7 +97,7 @@ header.masthead {
 }
 
 .btn-secondary:active{
-	background-color:#F8FAB1!important;
+	background-color:#dbe2ef!important;
 	color: black;
 }
 
@@ -106,7 +106,7 @@ header.masthead {
 }
 
 .btn-secondary:hover {
-	background-color:#F8FAB1;
+	background-color:#dbe2ef;
 	color: black;
 }
 
@@ -121,7 +121,11 @@ h2 {
 }
 
 a {
-	color: red;
+	color: #112d4e;
+}
+
+a:hover {
+	color: #3f72af;
 }
 
 h3 {
