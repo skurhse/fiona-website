@@ -123,9 +123,9 @@ h1, h2, h3, p {
 }
 
 h2 {
-	font-size:30px;
+	font-size:26px;
 	padding-bottom: 15px;
-	font-weight: medium;
+	font-weight: 600;
 }
 
 a {
