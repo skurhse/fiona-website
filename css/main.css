@@ -10,8 +10,13 @@
   display: inline-block;
 }
 
+
 body {
 	background-color:#DBE2EF;
+}
+
+p {
+	color:#201F1F;
 }
 
 .dropdown-content {
