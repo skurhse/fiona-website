@@ -10,6 +10,10 @@
   display: inline-block;
 }
 
+body {
+	background-color:#DBE2EF;
+}
+
 .dropdown-content {
   display: none;
   position: absolute;
@@ -17,6 +21,10 @@
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
+}
+
+.bg-light {
+  background-color: #DBE2EF !important;
 }
 
 .dropdown-content a {
@@ -33,7 +41,7 @@
 
 header.masthead {
 	background-image: none;
-	background-color: white;
+	background-color: #DBE2EF;
 	height: 0vh;
 	min-height: 22rem;
 
@@ -152,6 +160,9 @@ h3 {
 
 @media (min-width: 481px) and (max-width: 760px) {
   
+  	h2 {
+  		padding-top:40px;
+  	}
   	header.masthead	{
 		padding-top: 0px;
 		min-height: 17rem;
