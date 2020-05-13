@@ -34,7 +34,7 @@ body {
   display: block;
 }
 
-.dropdown-content a:hover {background-color: #dbe2ef; color:black;}
+.dropdown-content a:hover {background-color: #3F72AF; color:white;}
 
 .dropdown:hover .dropdown-content {display: block;}
 
@@ -100,7 +100,7 @@ header.masthead {
 	color: black;
 }*/
 .btn-secondary{
-	background-color: white;
+	background-color:#DBE2EF;
 	color: black;
 }
 
@@ -114,8 +114,8 @@ header.masthead {
 }
 
 .btn-secondary:hover {
+	color: #3f72af;
 	background-color:#dbe2ef;
-	color: black;
 }
 
 h1, h2, h3, p {
