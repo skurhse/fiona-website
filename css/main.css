@@ -80,6 +80,11 @@ header.masthead {
 	margin-bottom: 30px;
 }
 
+#about-img {
+	width: 500px;
+	border-radius:50px;
+}
+
 #portfolio-img {
 	width: 300px;
 	margin-bottom: 40px;
